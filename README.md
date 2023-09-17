@@ -8,6 +8,7 @@
 - [Workshop presentations](https://github.com/intro-to-data-science-23/workshop-presentations)
 
 ### Access to the class exercises
+- [My first repo exercise](https://github.com/cpj97/my_first_repo)
 - [Exercises lab 2](https://github.com/cpj97/exercises_1)
   
 ### Access to my assignments
