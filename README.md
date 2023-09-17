@@ -1,20 +1,19 @@
-# intro_to_ds
+# Intro to Data Science
 
-
-This is a course taught by [Simon Munzert](https://simonmunzert.com/) at the [Hertie School, Berlin](https://www.hertie-school.org/en/).
-
-### Course contents
-
-This course will introduce you to the modern data science workflow with R. In recent years, data analysis skills have become essential for those pursuing careers in policy advocacy and evaluation, business consulting and management, or academic research in the fields of education, health, and social science. We will cover topics like version control (Git) and project management; data collection, wrangling, storage, and visualization; model fitting and simulation; advanced workflow issues, debugging, automation; and data science ethics. The course is intended for students with some experience in working with R.
-
-### Materials
-
-Check out the repositories below for relevant course material:
+### Access to the general repositories of the course
 
 - [Lecture slides](https://github.com/intro-to-data-science-23/lectures)
 - [Lab materials](https://github.com/intro-to-data-science-23/labs)
 - [Assignments schedule](https://github.com/intro-to-data-science-23/assignments)
 - [Workshop presentations](https://github.com/intro-to-data-science-23/workshop-presentations)
+
+### Access to the class exercises
+- [Exerciese lab 2](https://github.com/cpj97/exercises_1)
+  
+### Access to my assignments
+- [Assignment 0](https://github.com/intro-to-data-science-23/assignment-0-cpj97)
+- [Assignment 1](https://github.com/intro-to-data-science-23/assignment-1-cpj97) 
+ 
 
 ### IDS Tools for Data Science workshops
 
