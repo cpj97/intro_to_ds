@@ -16,6 +16,7 @@
 - [Assignment 1](https://github.com/intro-to-data-science-23/assignment-1-cpj97)
 - [Assignment 2](https://github.com/intro-to-data-science-23/assignment-2-cpj97)
 - [Assignment 3](https://github.com/intro-to-data-science-23/assignment-3-cpj97)
+- [Assignment 4](https://github.com/intro-to-data-science-23/assignment-4-cpj97)
  
 
 ### IDS Tools for Data Science workshops
